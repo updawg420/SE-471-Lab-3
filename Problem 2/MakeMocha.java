@@ -1,0 +1,3 @@
+class MochaCoffee implements CoffeeIF{
+
+}

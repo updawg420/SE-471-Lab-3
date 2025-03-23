@@ -1,0 +1,3 @@
+class MakeLatte implements CoffeeIF{
+
+}
